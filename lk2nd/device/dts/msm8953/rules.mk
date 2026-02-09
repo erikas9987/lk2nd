@@ -14,15 +14,16 @@ ADTBS += \
 	$(LOCAL_DIR)/msm8953-mtp.dtb \
 	$(LOCAL_DIR)/msm8953-oppo-r9s.dtb \
 	$(LOCAL_DIR)/msm8953-qrd.dtb \
+	$(LOCAL_DIR)/msm8953-qrd-sku3.dtb \
 	$(LOCAL_DIR)/msm8953-xiaomi-common.dtb \
 	$(LOCAL_DIR)/msm8953-xiaomi-daisy.dtb \
 	$(LOCAL_DIR)/msm8953-xiaomi-markw.dtb \
 	$(LOCAL_DIR)/msm8953-xiaomi-oxygen.dtb \
 	$(LOCAL_DIR)/msm8953-xiaomi-vince.dtb \
+	$(LOCAL_DIR)/sda450-samsung-r05.dtb \
 	$(LOCAL_DIR)/sdm450-motorola-ali.dtb \
 	$(LOCAL_DIR)/sdm450-mtp.dtb \
 	$(LOCAL_DIR)/sdm450-samsung-r04.dtb \
-	$(LOCAL_DIR)/sdm450-samsung-r05.dtb \
 	$(LOCAL_DIR)/sdm450-xiaomi-rosy.dtb \
 	$(LOCAL_DIR)/sdm632-fairphone-fp3.dtb \
 	$(LOCAL_DIR)/sdm632-mtp.dtb \
